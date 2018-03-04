@@ -1,6 +1,6 @@
 {
   "name": "buildshit",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Yet another task runner extending npm scripting capabilities",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
